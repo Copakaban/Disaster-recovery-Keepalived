@@ -17,8 +17,11 @@
 `Router1(config)#exit`  
 `Router1#`  
 
-Скрин с прохождением пакета
+Скрин с прохождением пинга
 ![изображение](https://github.com/Copakaban/Disaster-recovery-Keepalived/assets/118304300/88b616e1-0911-4333-90e1-1171fdbcfa63)  
 [Схема с разорванной связью и проходящим пингом на сервер](https://github.com/Copakaban/Disaster-recovery-Keepalived/raw/main/Z1.pkt)
 
 **Задание 2.**  
+
+![изображение](https://github.com/Copakaban/Disaster-recovery-Keepalived/assets/118304300/d87062db-ab44-4af7-b8f9-7dd40fb82274)  
+![изображение](https://github.com/Copakaban/Disaster-recovery-Keepalived/assets/118304300/25b4b5c1-037f-4d54-a2d6-fa32f571d3cf)  
