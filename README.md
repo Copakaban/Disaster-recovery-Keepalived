@@ -19,6 +19,6 @@
 
 Скрин с прохождением пакета
 ![изображение](https://github.com/Copakaban/Disaster-recovery-Keepalived/assets/118304300/88b616e1-0911-4333-90e1-1171fdbcfa63)  
-https://github.com/Copakaban/Disaster-recovery-Keepalived/raw/main/Z1.pkt
+[Схема с разорванной связью и проходящим пингом на сервер](https://github.com/Copakaban/Disaster-recovery-Keepalived/raw/main/Z1.pkt)
 
 **Задание 2.**  
